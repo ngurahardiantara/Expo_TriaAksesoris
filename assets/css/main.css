@@ -917,6 +917,7 @@ section {
 .projects .portfolio-flters li {
   cursor: pointer;
   display: inline-block;
+  font-family: "Simonetta", cursive;
   padding: 0;
   font-size: 18px;
   font-weight: 500;
